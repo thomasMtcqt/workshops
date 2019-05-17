@@ -1,0 +1,8 @@
+config:
+    renderer: markdown
+
+modules:
+  lab1:
+    name: Test
+  lab2:
+    name: Test 2

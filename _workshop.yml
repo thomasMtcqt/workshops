@@ -1,0 +1,14 @@
+id: "workshop"
+name: "Workshop Test"
+
+content:
+    url: https://raw.githubusercontent.com/thomasMtcqt/workshops/master
+
+vars:
+    TEST_VAR1: "variable 1"
+    TEST_VAR2: "variable 2"
+
+modules:
+    activate:
+    - lab1
+    - lab2
