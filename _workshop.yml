@@ -1,5 +1,5 @@
-id: "workshop"
-name: "Workshop Test"
+id: workshop
+name: Workshop Test
 
 content:
     url: https://raw.githubusercontent.com/thomasMtcqt/workshops/master
