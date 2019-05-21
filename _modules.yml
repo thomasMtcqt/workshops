@@ -4,11 +4,5 @@ config:
 modules:
   lab1:
     name: Test
-    vars: 
-        TEST_VAR1
-        TEST_VAR2
   lab2:
     name: Test 2
-    vars:
-        TEST_VAR1
-        TEST_VAR2
