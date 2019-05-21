@@ -1,19 +1,8 @@
 config:
     renderer: markdown
-    vars:
-    - name: VAR_1
-      value: Variable 1
-    - name: VAR_2
-      value: Variable 2
 
 modules:
   lab1:
     name: Test
-    vars:
-        VAR_1
-        VAR_2
   lab2:
     name: Test 2
-    vars:
-        VAR_1
-        VAR_2
